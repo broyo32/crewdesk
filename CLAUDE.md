@@ -1,6 +1,6 @@
-# CrewDeck — instrucciones para Claude
+# CrewDesk — instrucciones para Claude
 
-CrewDeck es una app móvil (Android primero, iOS después) para organizar la convivencia de quienes comparten piso, tienen pareja o cuidan juntos de niños. Cada grupo se llama **CrewDeck**.
+CrewDesk es una app móvil (Android primero, iOS después) para organizar la convivencia de quienes comparten piso, tienen pareja o cuidan juntos de niños. Cada grupo se llama **CrewDesk**.
 
 Antes de cualquier tarea, lee `docs/analisis-funcional.md` (el qué) y `docs/documento-tecnico.md` (el cómo). Si algo no está definido ahí, **pregunta al usuario antes de inventar**: él toma las decisiones de producto.
 
@@ -21,7 +21,7 @@ Antes de cualquier tarea, lee `docs/analisis-funcional.md` (el qué) y `docs/doc
 ## Normas
 
 - Código, nombres de variables y commits en inglés. Textos visibles en español, siempre a través de i18n.
-- Un CrewDeck se llama `group` en el código (`groups/{groupId}`).
+- Un CrewDesk se llama `group` en el código (`groups/{groupId}`).
 - Importes siempre en céntimos (enteros). Nunca `float` para dinero.
 - Puntos de tareas: 4 niveles fijos → `effort: 1|2|3|4` = 1, 2, 3, 5 puntos. Cubrir un turno: +1 punto.
 - Tests obligatorios para la lógica de puntos, asignación de turnos, deudas y repetición de eventos.
@@ -32,4 +32,4 @@ Antes de cualquier tarea, lee `docs/analisis-funcional.md` (el qué) y `docs/doc
 ## Entorno del usuario
 
 - PC con Windows. Pruebas en una tablet (development build instalada vía EAS).
-- Cuenta de Expo: `broyo-design`. Repo: `broyo32/crewdeck`.
+- Cuenta de Expo: `broyo-design`. Repo: `broyo32/crewdesk`.

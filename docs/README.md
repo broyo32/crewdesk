@@ -1,4 +1,4 @@
-# Documentación de CrewDeck
+# Documentación de CrewDesk
 
 | Documento | Versión viva (editable) | Copia en el repo |
 | --- | --- | --- |
