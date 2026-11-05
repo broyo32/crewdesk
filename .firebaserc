@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "default": "crewdesk-e374b",
+    "dev": "crewdesk-e374b",
+    "prod": "crewdesk-b2e9d"
+  }
+}
