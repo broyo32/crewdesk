@@ -1,7 +1,7 @@
 rules_version = '2';
 
 // Base de la fase 0: todo cerrado salvo el propio perfil.
-// Las reglas por CrewDeck (groups/...) se añaden en la fase 1 siguiendo
+// Las reglas por CrewDesk (groups/...) se añaden en la fase 1 siguiendo
 // la tabla de "Reglas de seguridad" de docs/documento-tecnico.md.
 service cloud.firestore {
   match /databases/{database}/documents {

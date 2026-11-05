@@ -1,6 +1,6 @@
-# CrewDeck
+# CrewDesk
 
-App para organizar la convivencia: pisos compartidos, parejas y familias con niños. Cada grupo es un **CrewDeck**.
+App para organizar la convivencia: pisos compartidos, parejas y familias con niños. Cada grupo es un **CrewDesk**.
 
 - Producto y diseño: [`docs/`](docs/README.md)
 - Normas para Claude: [`CLAUDE.md`](CLAUDE.md)
